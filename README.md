@@ -1,5 +1,10 @@
 # Code Example Demonstration Automated Retrieval (CEDAR)
 
+## Paper
+
+[Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning](https://people.ece.ubc.ca/amesbah/resources/papers/cedar-icse23.pdf), 
+Published at IEEE/ACM International Conference on Software Engineering (ICSE), 2023.
+
 ## Setup environment
 - Prerequisite:
   - Install [conda](https://docs.conda.io/projects/conda/en/4.6.1/user-guide/install/macos.html) package manager. 
